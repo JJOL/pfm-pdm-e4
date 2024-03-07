@@ -1,0 +1,5 @@
+# Ignore typical files in python projects
+venv
+__pycache__
+*.pyc
+*.pyo
