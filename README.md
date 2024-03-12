@@ -5,6 +5,9 @@
 - Opcional: Usar un virtualenv venv ```bash python -m venv venv```
 - Correr ```bash pip install -r requirements.txt```
 
+## Dataset Sources
+- https://www.kaggle.com/competitions/playground-series-s3e17/data
+- https://github.com/Azure/AI-PredictiveMaintenance/blob/master/src/Notebooks/DataGeneration.ipynb
 
 
 ## Related Work
